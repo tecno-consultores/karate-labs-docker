@@ -15,7 +15,7 @@ Copy the .feature files to the test folder and then run the tests using the foll
 
 * docker compose up -d
 
-* docker compose run mvn clean test
+* docker exec -t karatelabs mvn clean test
 
 
 Get this image on:
