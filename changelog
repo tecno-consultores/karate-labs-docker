@@ -1,4 +1,16 @@
-commit aa76df4cbd3345515cdd0487d3a3436edffd1da2 (HEAD -> main, origin/main, origin/HEAD)
+commit df9a7c49575fbd4ed4afa04a3935a01168fa4991 (HEAD -> main, origin/main, origin/HEAD)
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Thu Sep 26 21:23:45 2024 -0400
+
+    * bugfix
+
+commit 9f023c4b512867b297f5f5ed7810e94f5cb2b116
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Thu Sep 26 21:22:47 2024 -0400
+
+    * changelog
+
+commit aa76df4cbd3345515cdd0487d3a3436edffd1da2
 Author: Jesus Palencia <sinfallas@gmail.com>
 Date:   Thu Sep 26 21:22:36 2024 -0400
 
