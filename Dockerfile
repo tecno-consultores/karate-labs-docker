@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:24.04
 LABEL maintainer="sinfallas@gmail.com"
 LABEL build_date="2024-09-26"
 WORKDIR /app
