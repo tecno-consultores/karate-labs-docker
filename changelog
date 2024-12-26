@@ -1,10 +1,40 @@
-commit d4b187c40d4f79ea2af88c45b83cd43bd3d8fbc3 (HEAD -> main, origin/main, origin/HEAD)
+commit 3069302b76aa94d602f6e6456fdbefcdd164118f (HEAD -> main, origin/main, origin/HEAD)
+Author: Jesus Palencia <ansistemas4@invertropoli.com>
+Date:   Thu Dec 26 14:21:20 2024 -0400
+
+    * locales
+
+commit cf2dfd30b7b1759ddf0638978e3fd9ac1e23cf59 (tag: v1.1.0)
+Author: Jesús Palencia <sinfallas@gmail.com>
+Date:   Tue Dec 3 14:16:24 2024 -0400
+
+    Update Dockerfile
+
+commit 684a5e7fe222c460a9e9d471aa20dd99233a3171
+Author: Jesús Palencia <sinfallas@gmail.com>
+Date:   Wed Nov 20 10:59:06 2024 -0400
+
+    Update README.md
+
+commit 018bdeb1c5d1e962b44fcc2ed9c85cf2fb32af42
+Author: Jesús Palencia <sinfallas@gmail.com>
+Date:   Fri Sep 27 13:54:18 2024 -0400
+
+    Update README.md
+
+commit 1c354b94a46f587655e660b7b9dd566f27656d82
+Author: Jesus Palencia <sinfallas@gmail.com>
+Date:   Thu Sep 26 22:13:18 2024 -0400
+
+    * changelog
+
+commit d4b187c40d4f79ea2af88c45b83cd43bd3d8fbc3
 Author: Jesus Palencia <sinfallas@gmail.com>
 Date:   Thu Sep 26 22:13:12 2024 -0400
 
     * readme
 
-commit 14e2021f8c18f5f9bfbbb96dc2418922e649167e
+commit 14e2021f8c18f5f9bfbbb96dc2418922e649167e (tag: v1.0.1)
 Author: Jesus Palencia <sinfallas@gmail.com>
 Date:   Thu Sep 26 21:47:10 2024 -0400
 
@@ -28,7 +58,7 @@ Date:   Thu Sep 26 21:44:06 2024 -0400
 
     * docker-compose
 
-commit ac5d31ad362b3d52f2ae1440a57f9bed7478ee80
+commit ac5d31ad362b3d52f2ae1440a57f9bed7478ee80 (tag: v1.0.0)
 Author: Jesus Palencia <sinfallas@gmail.com>
 Date:   Thu Sep 26 21:35:28 2024 -0400
 
