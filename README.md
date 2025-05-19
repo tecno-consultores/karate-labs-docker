@@ -14,6 +14,8 @@ docker compose:
 Copy the .feature files to the test folder and then run the tests using the following commands:
 
 ```bash
+* mkdir test
+* cp -f /home/example/develop/*.feature ./test/
 * docker compose up -d
 * docker exec -t karatelabs mvn clean test
 ```
