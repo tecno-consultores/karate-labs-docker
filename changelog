@@ -1,167 +1,179 @@
-commit 3bf734d9db01353247d2c6282180ff1d9f6d2c95 (HEAD -> main, origin/main, origin/HEAD)
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sat Jan 17 10:42:53 2026 -0400
-
-    * build script
-
-commit cb2107c0cb57580a14ab7a52b9ec0dd886917959
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Jun 29 10:22:03 2025 -0400
-
-    * changelog
-
-commit 2c9f5404d3a9a61a58419eb25bc8a314160a3707
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Jun 29 10:21:56 2025 -0400
-
-    * bugfix
-
-commit 641fa5d39747a0ee25d8bda62bca1231d51c5fe2
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Jun 29 10:00:53 2025 -0400
-
-    * changelog
-
-commit 70522fcacc36e5bdcd3176cbf13d01e0a0107e2a
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Jun 29 10:00:46 2025 -0400
-
-    * bugfix
-
-commit ee898b69b8c283ea9d1c46e1d714eec509459206
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Mon May 19 14:17:54 2025 -0400
-
-    Update README.md
-
-commit b5fffd27a8941cc98d83083da1c662e97d4f39db
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Jan 12 15:00:09 2025 -0400
-
-    * changelog
-
-commit 1a527ba949772c55362b582d36cb0d7c93648dc4
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Sun Jan 12 15:00:01 2025 -0400
-
-    * update
-
-commit e167ec47c44297dd0e119624e464efd46b56d9cd (tag: v1.2.0)
-Author: Jesus Palencia <ansistemas4@invertropoli.com>
-Date:   Thu Dec 26 14:21:27 2024 -0400
-
-    * changelog
-
-commit 3069302b76aa94d602f6e6456fdbefcdd164118f
-Author: Jesus Palencia <ansistemas4@invertropoli.com>
-Date:   Thu Dec 26 14:21:20 2024 -0400
-
-    * locales
-
-commit cf2dfd30b7b1759ddf0638978e3fd9ac1e23cf59 (tag: v1.1.0)
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Tue Dec 3 14:16:24 2024 -0400
-
-    Update Dockerfile
-
-commit 684a5e7fe222c460a9e9d471aa20dd99233a3171
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Wed Nov 20 10:59:06 2024 -0400
-
-    Update README.md
-
-commit 018bdeb1c5d1e962b44fcc2ed9c85cf2fb32af42
-Author: Jesús Palencia <sinfallas@gmail.com>
-Date:   Fri Sep 27 13:54:18 2024 -0400
-
-    Update README.md
-
-commit 1c354b94a46f587655e660b7b9dd566f27656d82
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 22:13:18 2024 -0400
-
-    * changelog
-
-commit d4b187c40d4f79ea2af88c45b83cd43bd3d8fbc3
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 22:13:12 2024 -0400
-
-    * readme
-
-commit 14e2021f8c18f5f9bfbbb96dc2418922e649167e (tag: v1.0.1)
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:47:10 2024 -0400
-
-    * changelog
-
-commit f286cf7a913c672bd698d4fbda85de61decd77f6
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:46:54 2024 -0400
-
-    * autor, copying
-
-commit 9039be8dc70bd7555d7b3e6d14e8c7db5e95cc3a
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:44:48 2024 -0400
-
-    * changelog
-
-commit 0abe0aee1b098b35b52d8780b713bb0b2d4fa348
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:44:06 2024 -0400
-
-    * docker-compose
-
-commit ac5d31ad362b3d52f2ae1440a57f9bed7478ee80 (tag: v1.0.0)
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:35:28 2024 -0400
-
-    * changelog
-
-commit 591c4d1cbe549f8bf0813e1286167d8cf1d9fa1c
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:35:21 2024 -0400
-
-    * readme
-
-commit 4d8db367ed9b9f377afa4f05195b1052e8c2ae82
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:23:51 2024 -0400
-
-    * changelog
-
-commit df9a7c49575fbd4ed4afa04a3935a01168fa4991
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:23:45 2024 -0400
-
-    * bugfix
-
-commit 9f023c4b512867b297f5f5ed7810e94f5cb2b116
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:22:47 2024 -0400
-
-    * changelog
-
-commit aa76df4cbd3345515cdd0487d3a3436edffd1da2
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 21:22:36 2024 -0400
-
-    * update
-
-commit 770b8298c6acc2ace95995080489183e6aedf3bf
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 20:36:14 2024 -0400
-
-    * changelog
-
-commit be7076e98ddf9e50912b7cff9c90fe0e12f54916
-Author: Jesus Palencia <sinfallas@gmail.com>
-Date:   Thu Sep 26 20:36:04 2024 -0400
-
-    * primer commit
-
-commit 63c4d915d4bbca354e47b901b9f532773f166736
-Author: Jesús Palencia <sinfallas@yahoo.com>
-Date:   Thu Sep 26 20:14:45 2024 -0400
-
-    Initial commit
+* commit e3451d26005441f094c65274da3afeeff5b7684e (HEAD -> main, origin/main, origin/HEAD)
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Mar 29 17:13:19 2026 -0400
+| 
+|     * armv7
+| 
+* commit 0a990b415c3d6e2ccd903a772d1e4500b954e032
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sat Jan 17 10:43:01 2026 -0400
+| 
+|     * changelog
+| 
+* commit 3bf734d9db01353247d2c6282180ff1d9f6d2c95
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sat Jan 17 10:42:53 2026 -0400
+| 
+|     * build script
+| 
+* commit cb2107c0cb57580a14ab7a52b9ec0dd886917959
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Jun 29 10:22:03 2025 -0400
+| 
+|     * changelog
+| 
+* commit 2c9f5404d3a9a61a58419eb25bc8a314160a3707
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Jun 29 10:21:56 2025 -0400
+| 
+|     * bugfix
+| 
+* commit 641fa5d39747a0ee25d8bda62bca1231d51c5fe2
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Jun 29 10:00:53 2025 -0400
+| 
+|     * changelog
+| 
+* commit 70522fcacc36e5bdcd3176cbf13d01e0a0107e2a
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Jun 29 10:00:46 2025 -0400
+| 
+|     * bugfix
+| 
+* commit ee898b69b8c283ea9d1c46e1d714eec509459206
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Mon May 19 14:17:54 2025 -0400
+| 
+|     Update README.md
+| 
+* commit b5fffd27a8941cc98d83083da1c662e97d4f39db
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Jan 12 15:00:09 2025 -0400
+| 
+|     * changelog
+| 
+* commit 1a527ba949772c55362b582d36cb0d7c93648dc4
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Sun Jan 12 15:00:01 2025 -0400
+| 
+|     * update
+| 
+* commit e167ec47c44297dd0e119624e464efd46b56d9cd (tag: v1.2.0)
+| Author: Jesus Palencia <ansistemas4@invertropoli.com>
+| Date:   Thu Dec 26 14:21:27 2024 -0400
+| 
+|     * changelog
+| 
+* commit 3069302b76aa94d602f6e6456fdbefcdd164118f
+| Author: Jesus Palencia <ansistemas4@invertropoli.com>
+| Date:   Thu Dec 26 14:21:20 2024 -0400
+| 
+|     * locales
+| 
+* commit cf2dfd30b7b1759ddf0638978e3fd9ac1e23cf59 (tag: v1.1.0)
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Tue Dec 3 14:16:24 2024 -0400
+| 
+|     Update Dockerfile
+| 
+* commit 684a5e7fe222c460a9e9d471aa20dd99233a3171
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Wed Nov 20 10:59:06 2024 -0400
+| 
+|     Update README.md
+| 
+* commit 018bdeb1c5d1e962b44fcc2ed9c85cf2fb32af42
+| Author: Jesús Palencia <sinfallas@gmail.com>
+| Date:   Fri Sep 27 13:54:18 2024 -0400
+| 
+|     Update README.md
+| 
+* commit 1c354b94a46f587655e660b7b9dd566f27656d82
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 22:13:18 2024 -0400
+| 
+|     * changelog
+| 
+* commit d4b187c40d4f79ea2af88c45b83cd43bd3d8fbc3
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 22:13:12 2024 -0400
+| 
+|     * readme
+| 
+* commit 14e2021f8c18f5f9bfbbb96dc2418922e649167e (tag: v1.0.1)
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:47:10 2024 -0400
+| 
+|     * changelog
+| 
+* commit f286cf7a913c672bd698d4fbda85de61decd77f6
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:46:54 2024 -0400
+| 
+|     * autor, copying
+| 
+* commit 9039be8dc70bd7555d7b3e6d14e8c7db5e95cc3a
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:44:48 2024 -0400
+| 
+|     * changelog
+| 
+* commit 0abe0aee1b098b35b52d8780b713bb0b2d4fa348
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:44:06 2024 -0400
+| 
+|     * docker-compose
+| 
+* commit ac5d31ad362b3d52f2ae1440a57f9bed7478ee80 (tag: v1.0.0)
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:35:28 2024 -0400
+| 
+|     * changelog
+| 
+* commit 591c4d1cbe549f8bf0813e1286167d8cf1d9fa1c
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:35:21 2024 -0400
+| 
+|     * readme
+| 
+* commit 4d8db367ed9b9f377afa4f05195b1052e8c2ae82
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:23:51 2024 -0400
+| 
+|     * changelog
+| 
+* commit df9a7c49575fbd4ed4afa04a3935a01168fa4991
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:23:45 2024 -0400
+| 
+|     * bugfix
+| 
+* commit 9f023c4b512867b297f5f5ed7810e94f5cb2b116
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:22:47 2024 -0400
+| 
+|     * changelog
+| 
+* commit aa76df4cbd3345515cdd0487d3a3436edffd1da2
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 21:22:36 2024 -0400
+| 
+|     * update
+| 
+* commit 770b8298c6acc2ace95995080489183e6aedf3bf
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 20:36:14 2024 -0400
+| 
+|     * changelog
+| 
+* commit be7076e98ddf9e50912b7cff9c90fe0e12f54916
+| Author: Jesus Palencia <sinfallas@gmail.com>
+| Date:   Thu Sep 26 20:36:04 2024 -0400
+| 
+|     * primer commit
+| 
+* commit 63c4d915d4bbca354e47b901b9f532773f166736
+  Author: Jesús Palencia <sinfallas@yahoo.com>
+  Date:   Thu Sep 26 20:14:45 2024 -0400
+  
+      Initial commit
