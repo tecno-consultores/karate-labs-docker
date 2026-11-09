@@ -46,3 +46,6 @@ Once the execution finishes, the container will exit automatically. You can find
 
 Get this image on:
 * https://hub.docker.com/r/sinfallas/karatelabs
+
+
+Copyright (C) 2026 Jesus Palencia <sinfallas@gmail.com> (Creado en Tecno Consultores)
